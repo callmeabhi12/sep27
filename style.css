@@ -1,0 +1,25 @@
+.category {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-left: 20px;
+    gap: 100px;
+
+}
+.p2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left:20px ;
+    margin-right: 20px;
+}
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    border-radius: 20px;
+}
+.topic {
+     font: bolder; /* the font did not got bold  */
+    font-size: large;
+}
